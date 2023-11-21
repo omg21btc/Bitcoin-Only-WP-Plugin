@@ -24,7 +24,7 @@ This plugin suite allows the integration of live Bitcoin network data into your 
 - **Purging:** `[mempoolfees fee="purging"]` - Provides the minimum fee where transactions are at risk of being dropped from the mempool.
 
 #### CURRENT EXCHANGE RATE
-- **BTC/USD:** `[btc_usd]` - Shows the current height of the Bitcoin blockchain.
+- **BTC/USD:** `[btc_usd]` - Shows the real-time average exchange rate of Bitcoin(BTC) to US Dollar(USD).
 
 These ShortCodes can be easily added to your website using Title or Text widgets in Elementor. The plugin has been tested exclusively with Elementor.
 
