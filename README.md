@@ -38,7 +38,7 @@ Currently, this plugin suite has been tested and is confirmed to work with Eleme
 This plugin is open source and available under the GNU General Public License v2.0.
 
 ## Future Developments
-While the current version focuses on mempool fees and block height, future updates will introduce more Bitcoin only features to this suite.
+While the current version focuses on live BTC/USD price, mempool fees and block height, future updates will introduce more Bitcoin only features to this suite.
 
 ## Support
 For support, queries, or contributions, please visit our [GitHub repository](https://github.com/omg21btc/Bitcoin-Only-WP-Plugin).
