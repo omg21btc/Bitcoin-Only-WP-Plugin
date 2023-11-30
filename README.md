@@ -3,7 +3,7 @@
 # OMG21 | Bitcoin only WordPress Plugin Suite
 
 ## Description
-OMG21 | Bitcoin only WordPress Plugin Suite is a WordPress plugin suite designed exclusively for Bitcoin. This plugin suite currently includes features for displaying live mempool fees and block height information. It's specifically compatible with Elementor, with potential adaptability to other website builders.
+OMG21 | Bitcoin only WordPress Plugin Suite is a WordPress plugin suite designed exclusively for Bitcoin. This plugin suite currently includes features for live BTC/USD price, displaying live mempool fees and block height information. It's specifically compatible with Elementor, with potential adaptability to other website builders for WordPress.
 
 ## Installation
 1. Download the plugin from [GitHub](https://github.com/omg21btc/Bitcoin-Only-WP-Plugin).
