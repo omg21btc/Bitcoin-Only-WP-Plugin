@@ -1,3 +1,5 @@
+> **Archived November 2026.** This plugin is no longer maintained. It gets no updates, fixes or support. The code stays here for reference.
+
 ---
 
 # OMG21 | Bitcoin Only
